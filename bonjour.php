@@ -1,0 +1,3 @@
+<?php
+	echo ("PAYS DE GALLES INDEPENDANT");
+>
